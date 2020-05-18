@@ -34,7 +34,7 @@ int main()
     A.enter(d);
 
     // aussteigen
-    A.exit(2);
+    //A.exit(2);
 
     //Personen im Auto
     std::cout << "Passengers: " << A.numPassengers() << std::endl;
